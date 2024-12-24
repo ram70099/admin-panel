@@ -15,6 +15,8 @@
 	<head>
 		<title></title>
 		<link rel="stylesheet" type="text/css" href="css/1.css"/>
+		    <link rel="stylesheet" type="text/css" href="css/1.css"/>
+
 	</head>
 	<body>
 		<?php include('common/header.php');?>
